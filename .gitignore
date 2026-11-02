@@ -1,0 +1,16 @@
+# Executables
+*.exe
+*.o
+*.out
+*.pdb
+
+# Local explanatory document (Do not push to GitHub)
+TAI_LIEU_GIAI_THICH_CODE.md
+*tai_lieu*
+*giai_thich*
+*.pdf
+
+# System & Editor files
+.vscode/
+.idea/
+.DS_Store
